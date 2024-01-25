@@ -1,0 +1,1 @@
+Please readme carefully before using GIT
